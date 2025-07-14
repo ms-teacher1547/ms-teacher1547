@@ -4,16 +4,15 @@ Welcome to my GitHub profile! I'm a passionate educator and developer who loves 
 
 ## About Me
 
-- 👩‍🏫 **Educator:** I have a strong background in teaching and mentoring students in various programming languages and technologies.
 - 💻 **Developer:** I enjoy developing projects that solve real-world problems and contribute to the open-source community.
 - 📚 **Lifelong Learner:** I am always eager to learn new things and improve my skills.
 
 ## Skills
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js
+- **Languages:** Python, JavaScript, Java, C++, Dart, C
+- **Web Development:** HTML, CSS, React, Node.js, Spring-Boot
 - **Data Science:** Pandas, NumPy, Matplotlib, Scikit-Learn
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, WindSurf
 
 ## Projects
 
