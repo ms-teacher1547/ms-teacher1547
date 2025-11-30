@@ -1,6 +1,6 @@
 # Hello, I'm ms-teacher1547! 👋
 
-Welcome to my GitHub profile! I'm a passionate educator and developer who loves to create and share knowledge through code.
+Welcome to my GitHub profile! I'm a passionate  developer who loves to create and share knowledge through code.
 
 ## About Me
 
@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a passionate educator and developer who loves 
 
 ## Skills
 
-- **Languages:** Python, JavaScript, Java, C++, Dart, C
-- **Web Development:** HTML, CSS, React, Node.js, Spring-Boot
+- **Languages:** Python, JavaScript, Java, C++, Dart, C, php
+- **Web Development:** HTML, CSS, React, Node.js, Spring-Boot, django
 - **Data Science:** Pandas, NumPy, Matplotlib, Scikit-Learn
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook, WindSurf
 
